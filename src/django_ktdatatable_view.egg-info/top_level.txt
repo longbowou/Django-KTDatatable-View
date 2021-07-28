@@ -1,1 +1,1 @@
-
+django_ktdatatable_view

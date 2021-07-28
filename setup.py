@@ -5,7 +5,7 @@ with open("README.md", "r", encoding="utf-8") as fh:
 
 setuptools.setup(
     name="django-ktdatatable-view",
-    version="1.0.0",
+    version="1.1.0",
     author="Longbowou",
     author_email="blandedaniel@gmail.com",
     description="Django KTDatatable View",

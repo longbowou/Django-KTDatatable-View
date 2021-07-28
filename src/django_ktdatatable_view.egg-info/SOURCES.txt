@@ -2,6 +2,9 @@ LICENSE
 README.md
 pyproject.toml
 setup.py
+src/django_ktdatatable_view/__init__.py
+src/django_ktdatatable_view/base_ktdatatable_view.py
+src/django_ktdatatable_view/mixins.py
 src/django_ktdatatable_view.egg-info/PKG-INFO
 src/django_ktdatatable_view.egg-info/SOURCES.txt
 src/django_ktdatatable_view.egg-info/dependency_links.txt
