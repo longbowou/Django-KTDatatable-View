@@ -5,15 +5,15 @@ with open("README.md", "r", encoding="utf-8") as fh:
 
 setuptools.setup(
     name="django-ktdatatable-view",
-    version="0.0.1",
+    version="1.0.0",
     author="Longbowou",
-    author_email="longbowou@gmail.com",
+    author_email="blandedaniel@gmail.com",
     description="Django KTDatatable View",
     long_description=long_description,
     long_description_content_type="text/markdown",
-    url="https://github.com/pypa/sampleproject",
+    url="https://gitlab.com/longbowou/django-ktdatatable-view",
     project_urls={
-        "Bug Tracker": "https://github.com/pypa/sampleproject/issues",
+        "Bug Tracker": "https://gitlab.com/longbowou/django-ktdatatable-view/-/issues",
     },
     classifiers=[
         "Programming Language :: Python :: 3",

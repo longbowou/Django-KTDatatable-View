@@ -1,12 +1,12 @@
 Metadata-Version: 2.1
 Name: django-ktdatatable-view
-Version: 0.0.1
+Version: 1.0.0
 Summary: Django KTDatatable View
-Home-page: https://github.com/pypa/sampleproject
+Home-page: https://gitlab.com/longbowou/django-ktdatatable-view
 Author: Longbowou
-Author-email: longbowou@gmail.com
+Author-email: blandedaniel@gmail.com
 License: UNKNOWN
-Project-URL: Bug Tracker, https://github.com/pypa/sampleproject/issues
+Project-URL: Bug Tracker, https://gitlab.com/longbowou/django-ktdatatable-view/-/issues
 Platform: UNKNOWN
 Classifier: Programming Language :: Python :: 3
 Classifier: License :: OSI Approved :: MIT License
@@ -16,6 +16,22 @@ Description-Content-Type: text/markdown
 License-File: LICENSE
 
 # Datatable View
-This package is used in conjunction with the [KTDatatable](https://keenthemes.com/metronic/?page=docs&section=html/components/datatable), and supports state-saving detection. 
-The package consists of a class-based view, and a small collection of utilities for rendering table data from models.
+
+This package is used in conjunction with
+the [KTDatatable](https://keenthemes.com/metronic/?page=docs&section=html/components/datatable), and supports
+state-saving detection. The package consists of a class-based view, and a small collection of utilities for rendering
+table data from models.
+
+Dependencies:
+
+* Python 3.8 or later
+* [Django](http://www.djangoproject.com/) >= 2.2
+
+# Getting Started
+
+Install the package:
+
+```bash
+pip install django-ktdatatable-view
+```
 
