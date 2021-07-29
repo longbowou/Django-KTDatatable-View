@@ -1,5 +1,6 @@
 .idea
 dist
 venv
+src/django_ktdatatable_view.egg-info
 
 .pypirc
