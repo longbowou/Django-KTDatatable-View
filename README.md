@@ -25,8 +25,7 @@ at [KTDatatable Ajax Response](https://keenthemes.com/metronic/?page=docs&sectio
 
 Kuruman is a sample project that uses django-ktdatatable-view
 
-- [https://kuruman.longbowou.com](https://kuruman.longbowou.com)
-- [https://gitlab.com/longbowou/kuruman](https://gitlab.com/longbowou/kuruman)
+- [https://github.com/longbowou/Kuruman](https://github.com/longbowou/Kuruman)
 
 ## Usage
 
